@@ -1,0 +1,14 @@
+{
+    "bert_config_file": "../script/bert_model/bert_config.json",
+    "bert_vocab_file": "../script/bert_model/vocab.txt",
+    "bert_checkpoint_file": "../script/bert_model/model.ckpt-32579",
+    "lower_case": true,
+    "tmp_dir": "./tmp",
+    "context_max_len": 384,
+    "doc_stride": 128,
+    "question_max_len": 64,
+    "answer_max_len": 42,
+    "gpu": "1",
+    "batch_size": 8,
+    "n_best": 1
+}
