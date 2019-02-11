@@ -1,1 +1,1 @@
-asfd asfd
+print(123)
