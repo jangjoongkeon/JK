@@ -44,7 +44,11 @@
         <entry file="file://$PROJECT_DIR$/test1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
+<<<<<<< HEAD
               <caret column="9" selection-start-column="9" selection-end-column="9" />
+=======
+              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+>>>>>>> 7960e8ae12c8f27bda3f4b6e6f3becbcaa408cfd
             </state>
           </provider>
         </entry>
@@ -127,6 +131,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+<<<<<<< HEAD
+=======
+    <editor active="true" />
+>>>>>>> 7960e8ae12c8f27bda3f4b6e6f3becbcaa408cfd
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
@@ -156,7 +164,11 @@
     <entry file="file://$PROJECT_DIR$/test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
+<<<<<<< HEAD
           <caret column="9" selection-start-column="9" selection-end-column="9" />
+=======
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+>>>>>>> 7960e8ae12c8f27bda3f4b6e6f3becbcaa408cfd
         </state>
       </provider>
     </entry>
